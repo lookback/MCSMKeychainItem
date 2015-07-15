@@ -6,8 +6,8 @@
 //  Copyright 2012 Square Bracket Software. All rights reserved.
 //
 
-@import Foundation;
-@import Security;
+#import <Foundation/Foundation.h>
+#import <Security/Security.h>
 
 extern NSString * const MCSMKeychainItemQueryKey;
 
